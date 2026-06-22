@@ -217,12 +217,24 @@ export interface Database {
           apartment: string | null
           created_at: string
           updated_at: string
+                    verification_status: 'unverified' | 'pending' | 'verified' | 'rejected'
+          verification_document_url: string | null
+          verification_submitted_at: string | null
+          verification_verified_at: string | null
+          verification_rejected_reason: string | null
+          building_id: string | null
         }
         Insert: {
           id: string
           full_name?: string | null
           avatar_url?: string | null
           apartment?: string | null
+                    verification_status?: 'unverified' | 'pending' | 'verified' | 'rejected'
+          verification_document_url?: string | null
+          verification_submitted_at?: string | null
+          verification_verified_at?: string | null
+          verification_rejected_reason?: string | null
+          building_id?: string | null
           created_at?: string
           updated_at?: string
         }
@@ -231,6 +243,12 @@ export interface Database {
           full_name?: string | null
           avatar_url?: string | null
           apartment?: string | null
+                    verification_status?: 'unverified' | 'pending' | 'verified' | 'rejected'
+          verification_document_url?: string | null
+          verification_submitted_at?: string | null
+          verification_verified_at?: string | null
+          verification_rejected_reason?: string | null
+          building_id?: string | null
           created_at?: string
           updated_at?: string
         }
