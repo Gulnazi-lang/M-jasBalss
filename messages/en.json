@@ -1,0 +1,207 @@
+{
+  "common": {
+    "appName": "MājasBalss.lv",
+    "tagline": "Voice for every home",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "search": "Search",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add"
+  },
+  "nav": {
+    "home": "Home",
+    "problems": "Problems",
+    "polls": "Polls",
+    "protocols": "Protocols",
+    "residents": "Residents",
+    "profile": "Profile",
+    "logout": "Log out",
+    "login": "Log in",
+    "register": "Sign up"
+  },
+  "house": {
+    "title": "Building",
+    "address": "Address",
+    "stats": {
+      "residents": "Residents",
+      "openProblems": "Open issues",
+      "activePolls": "Active polls"
+    },
+    "quickActions": "Quick actions",
+    "reportProblem": "Report a problem",
+    "vote": "Vote now",
+    "viewProtocols": "View protocols",
+    "overview": "Overview",
+    "noData": "No data yet",
+    "info": {
+      "fullAddress": "Full address",
+      "district": "District",
+      "apartments": "Apartments",
+      "entrances": "Entrances",
+      "floors": "Floors",
+      "yearBuilt": "Year built",
+      "manager": "Property manager"
+    }
+  },
+  "problems": {
+    "title": "Problems & Requests",
+    "newProblem": "New problem",
+    "list": "Issues list",
+    "status": {
+      "open": "Open",
+      "in_progress": "In progress",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    },
+    "priority": {
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "fields": {
+      "title": "Title",
+      "description": "Description",
+      "category": "Category",
+      "priority": "Priority"
+    },
+    "categories": {
+      "roof": "Roof / gutters",
+      "plumbing": "Plumbing",
+      "heating": "Heating",
+      "electricity": "Electricity",
+      "elevator": "Elevator",
+      "courtyard": "Courtyard",
+      "other": "Other"
+    },
+    "empty": "No problems reported yet."
+  },
+  "polls": {
+    "title": "Polls & Voting",
+    "active": "Active polls",
+    "past": "Past polls",
+    "vote": "Vote",
+    "results": "Results",
+    "ends": "Ends",
+    "totalVotes": "Total votes",
+    "yourVote": "Your vote",
+    "noActive": "No active polls at the moment.",
+    "options": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "protocols": {
+    "title": "Meeting Protocols",
+    "meetingDate": "Meeting date",
+    "download": "Download",
+    "view": "View",
+    "empty": "No protocols uploaded yet."
+  },
+  "residents": {
+    "title": "Building residents",
+    "role": {
+      "owner": "Owner",
+      "tenant": "Tenant",
+      "admin": "Administrator"
+    },
+    "apartment": "Apartment"
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "registerTitle": "Create account",
+    "tagline": "Find your building, report issues and vote together with neighbours.",
+    "privacy": "We don't collect your exact address — only city and district. Join your building when you're ready.",
+    "emailSignInTitle": "Sign in with email",
+    "emailRegisterTitle": "Register with email",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "passwordAgainPlaceholder": "Password again",
+    "fullNamePlaceholder": "Full name",
+    "apartmentPlaceholder": "Apartment (optional)",
+    "toSignUp": "No account? Sign up",
+    "toSignIn": "Have an account? Sign in",
+    "errInvalid": "Invalid email or password",
+    "errExists": "This email is already registered",
+    "errPassShort": "Password must be at least 6 characters",
+    "errPassMatch": "Passwords don't match",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full name",
+    "apartment": "Apartment number",
+    "optional": "optional",
+    "loginButton": "Log in",
+    "registerButton": "Create account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "createAccount": "Sign up",
+    "welcome": "Welcome!",
+    "continueWithGoogle": "Continue with Google",
+    "orEmail": "or with email",
+    "loading": "Loading...",
+    "checkEmail": "Check your email to confirm your account.",
+    "accountCreated": "Account created!",
+    "afterRegisterHint": "Then find your building on the map and verify your apartment.",
+    "goToMap": "Go to map",
+    "passwordHint": "At least 6 characters",
+    "loginRequired": "Please log in to view your profile."
+  },
+  "map": {
+    "title": "Find your building",
+    "subtitle": "Search by address or pick a building on the map. Tap a marker to open its page.",
+    "district": "Pļavnieki, Riga",
+    "searchPlaceholder": "Search by address, street or house number…",
+    "noResults": "No buildings found",
+    "housesOnMap": "buildings on map",
+    "nearbyHouses": "Buildings nearby",
+    "apartments": "apartments",
+    "entrances": "Entrances",
+    "openHouse": "Open building",
+    "resetView": "Pļavnieki",
+    "clear": "Clear",
+    "hint": "Tap a house number on the map to open its page",
+    "featuredHouses": "Demo buildings",
+    "navigate": "navigate",
+    "select": "open",
+    "addHouse": "Add new building",
+    "placementHint": "Click on the map to place your building",
+    "cancelPlacement": "Cancel"
+  },
+  "createHouse": {
+    "title": "New building",
+    "location": "Map location",
+    "detectingAddress": "Detecting address…",
+    "street": "Street",
+    "houseNumber": "House number",
+    "city": "City",
+    "district": "District",
+    "postalCode": "Postal code",
+    "apartmentCount": "Apartments",
+    "yearBuilt": "Year built",
+    "floors": "Floors",
+    "buildingType": "Building type",
+    "submit": "Create building",
+    "success": "Building created successfully!",
+    "createFailed": "Failed to create building. Check your Supabase connection.",
+    "pinRequired": "Click on the map first to place the building.",
+    "requiredFields": "Fill in street, house number and apartment count.",
+    "types": {
+      "panel": "Panel",
+      "brick": "Brick",
+      "wooden": "Wooden",
+      "mixed": "Mixed",
+      "other": "Other"
+    }
+  },
+  "language": {
+    "lv": "Latviešu",
+    "ru": "Русский",
+    "en": "English",
+    "switch": "Language"
+  }
+}

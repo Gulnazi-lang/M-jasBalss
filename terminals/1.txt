@@ -1,0 +1,1279 @@
+---
+pid: 21776
+cwd: "C:\Users\bzvir\Desktop\MajasBalss.lv"
+command: "cd \"C:\\Users\\bzvir\\Desktop\\MajasBalss.lv\" && npm run dev"
+started_at: 2026-06-18T09:45:17.838Z
+running_for_ms: 27845012 
+---
+
+> majasbalss.lv@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.88.45:3000
+- Environments: .env.local
+✓ Ready in 437ms
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+
+ GET /ru/auth/login 200 in 898ms (next.js: 532ms, proxy.ts: 88ms, generate-params: 356ms, application-code: 278ms)
+ GET /lv/auth/login 200 in 53ms (next.js: 12ms, proxy.ts: 7ms, generate-params: 5ms, application-code: 34ms)
+ GET /lv/auth/login 200 in 44ms (next.js: 6ms, proxy.ts: 4ms, generate-params: 24µs, application-code: 34ms)
+ GET /lv 200 in 505ms (next.js: 412ms, proxy.ts: 4ms, generate-params: 386ms, application-code: 89ms)
+✓ Compiled in 68ms
+ GET /lv 200 in 131ms (next.js: 57ms, proxy.ts: 27ms, generate-params: 6ms, application-code: 47ms)
+✓ Compiled in 71ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /lv 200 in 295ms (next.js: 62ms, proxy.ts: 29ms, generate-params: 6ms, application-code: 205ms)
+ GET /lv 200 in 61ms (next.js: 14ms, proxy.ts: 5ms, generate-params: 5ms, application-code: 41ms)
+ GET /lv 200 in 118ms (next.js: 13ms, proxy.ts: 6ms, generate-params: 31µs, application-code: 99ms)
+ GET /lv 200 in 172ms (next.js: 9ms, proxy.ts: 5ms, generate-params: 29µs, application-code: 158ms)
+ GET /lv 200 in 174ms (next.js: 25ms, proxy.ts: 9ms, generate-params: 34µs, application-code: 141ms)
+ GET /lv 200 in 173ms (next.js: 42ms, proxy.ts: 9ms, generate-params: 30µs, application-code: 121ms)
+ GET /lv 200 in 172ms (next.js: 59ms, proxy.ts: 10ms, generate-params: 20µs, application-code: 103ms)
+ GET /lv 200 in 172ms (next.js: 79ms, proxy.ts: 12ms, generate-params: 17µs, application-code: 81ms)
+ GET /lv 200 in 182ms (next.js: 18ms, proxy.ts: 10ms, generate-params: 20µs, application-code: 154ms)
+ GET /lv 200 in 193ms (next.js: 13ms, proxy.ts: 5ms, generate-params: 17µs, application-code: 175ms)
+ GET /lv 200 in 203ms (next.js: 30ms, proxy.ts: 5ms, generate-params: 18µs, application-code: 169ms)
+ GET /lv 200 in 202ms (next.js: 42ms, proxy.ts: 14ms, generate-params: 20µs, application-code: 146ms)
+ GET /lv 200 in 199ms (next.js: 61ms, proxy.ts: 12ms, generate-params: 23µs, application-code: 125ms)
+ GET /lv 200 in 214ms (next.js: 82ms, proxy.ts: 9ms, generate-params: 18µs, application-code: 123ms)
+ GET /lv 200 in 219ms (next.js: 28ms, proxy.ts: 11ms, generate-params: 5ms, application-code: 180ms)
+ GET /lv 200 in 210ms (next.js: 44ms, proxy.ts: 3ms, generate-params: 18µs, application-code: 162ms)
+ GET /lv 200 in 183ms (next.js: 20ms, proxy.ts: 7ms, generate-params: 18µs, application-code: 156ms)
+ GET /lv 200 in 182ms (next.js: 39ms, proxy.ts: 7ms, generate-params: 20µs, application-code: 136ms)
+ GET /lv 200 in 181ms (next.js: 58ms, proxy.ts: 8ms, generate-params: 23µs, application-code: 116ms)
+ GET /lv 200 in 206ms (next.js: 81ms, proxy.ts: 4ms, generate-params: 18µs, application-code: 121ms)
+ GET /lv 200 in 175ms (next.js: 11ms, proxy.ts: 8ms, generate-params: 18µs, application-code: 157ms)
+ GET /lv 200 in 165ms (next.js: 40ms, proxy.ts: 3ms, generate-params: 22µs, application-code: 122ms)
+ GET /lv 200 in 104ms (next.js: 16ms, proxy.ts: 7ms, generate-params: 17µs, application-code: 81ms)
+ GET /lv 200 in 106ms (next.js: 60ms, proxy.ts: 6ms, generate-params: 18µs, application-code: 39ms)
+ GET /lv 200 in 104ms (next.js: 33ms, proxy.ts: 8ms, generate-params: 17µs, application-code: 63ms)
+ GET /lv 200 in 159ms (next.js: 25ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 131ms)
+ GET /lv 200 in 209ms (next.js: 38ms, proxy.ts: 18ms, generate-params: 22µs, application-code: 154ms)
+ GET /lv 200 in 162ms (next.js: 18ms, proxy.ts: 7ms, generate-params: 17µs, application-code: 137ms)
+ GET /lv 200 in 162ms (next.js: 34ms, proxy.ts: 8ms, generate-params: 19µs, application-code: 120ms)
+ GET /lv 200 in 161ms (next.js: 69ms, proxy.ts: 10ms, generate-params: 19µs, application-code: 82ms)
+ GET /lv 200 in 163ms (next.js: 53ms, proxy.ts: 9ms, generate-params: 17µs, application-code: 101ms)
+ GET /lv 200 in 132ms (next.js: 21ms, proxy.ts: 10ms, generate-params: 18µs, application-code: 100ms)
+ GET /lv 200 in 175ms (next.js: 13ms, proxy.ts: 4ms, generate-params: 17µs, application-code: 158ms)
+ GET /lv 200 in 179ms (next.js: 25ms, proxy.ts: 5ms, generate-params: 19µs, application-code: 150ms)
+ GET /lv 200 in 179ms (next.js: 36ms, proxy.ts: 13ms, generate-params: 18µs, application-code: 131ms)
+ GET /lv 200 in 198ms (next.js: 57ms, proxy.ts: 12ms, generate-params: 18µs, application-code: 129ms)
+ GET /lv 200 in 200ms (next.js: 77ms, proxy.ts: 12ms, generate-params: 17µs, application-code: 111ms)
+ GET /lv 200 in 166ms (next.js: 28ms, proxy.ts: 28ms, generate-params: 5ms, application-code: 109ms)
+ GET /lv 200 in 180ms (next.js: 11ms, proxy.ts: 5ms, generate-params: 18µs, application-code: 165ms)
+ GET /lv 200 in 201ms (next.js: 30ms, proxy.ts: 25ms, generate-params: 25µs, application-code: 146ms)
+ GET /lv 200 in 177ms (next.js: 46ms, proxy.ts: 7ms, generate-params: 20µs, application-code: 124ms)
+ GET /lv 200 in 197ms (next.js: 65ms, proxy.ts: 9ms, generate-params: 20µs, application-code: 123ms)
+ GET /lv 200 in 206ms (next.js: 89ms, proxy.ts: 8ms, generate-params: 25µs, application-code: 109ms)
+ GET /lv 200 in 199ms (next.js: 41ms, proxy.ts: 26ms, generate-params: 21µs, application-code: 132ms)
+ GET /lv 200 in 182ms (next.js: 11ms, proxy.ts: 5ms, generate-params: 24µs, application-code: 166ms)
+ GET /lv 200 in 170ms (next.js: 32ms, proxy.ts: 24ms, generate-params: 18µs, application-code: 113ms)
+ GET /lv 200 in 145ms (next.js: 38ms, proxy.ts: 14ms, generate-params: 22µs, application-code: 93ms)
+ GET /lv 200 in 131ms (next.js: 56ms, proxy.ts: 5ms, generate-params: 21µs, application-code: 70ms)
+ GET /lv 200 in 126ms (next.js: 87ms, proxy.ts: 4ms, generate-params: 5ms, application-code: 35ms)
+ GET /lv 200 in 145ms (next.js: 45ms, proxy.ts: 20ms, generate-params: 5ms, application-code: 79ms)
+ GET /lv 200 in 145ms (next.js: 9ms, proxy.ts: 5ms, generate-params: 25µs, application-code: 131ms)
+ GET /lv 200 in 111ms (next.js: 16ms, proxy.ts: 7ms, generate-params: 18µs, application-code: 89ms)
+ GET /lv 200 in 111ms (next.js: 34ms, proxy.ts: 7ms, generate-params: 23µs, application-code: 69ms)
+ GET /lv 200 in 110ms (next.js: 53ms, proxy.ts: 8ms, generate-params: 20µs, application-code: 50ms)
+✓ Compiled in 33ms
+ GET /lv 200 in 129ms (next.js: 63ms, proxy.ts: 25ms, generate-params: 5ms, application-code: 42ms)
+✓ Compiled in 74ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ TypeError: houses.filter is not a function
+    at getFeaturedHouses (lib\houses.ts:244:27)
+    at searchHousesWithScore (lib\houses.ts:258:18)
+    at AddressAutocomplete (components\map\AddressAutocomplete.tsx:37:44)
+  242 |
+  243 | export function getFeaturedHouses(houses: House[] = DEMO_HOUSES): House[] {
+> 244 |   const featured = houses.filter((h) => h.featured)
+      |                           ^
+  245 |   return featured.length > 0 ? featured : houses.slice(0, 4)
+  246 | }
+  247 | {
+  digest: '3213528134'
+}
+ GET /lv 200 in 349ms (next.js: 79ms, proxy.ts: 35ms, generate-params: 17µs, application-code: 235ms)
+ GET /lv 200 in 143ms (next.js: 100ms, proxy.ts: 9ms, generate-params: 26µs, application-code: 34ms)
+ GET /lv 500 in 382ms (next.js: 90ms, proxy.ts: 22ms, generate-params: 4ms, application-code: 269ms)
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Compiled in 98ms
+Error: MISSING_MESSAGE: Could not resolve `map.addHouse` in messages for locale `lv`.
+    at MapSearch (components\map\MapSearch.tsx:156:28)
+  154 |             onHouseSelect={handleSelect}
+  155 |             onHouseOpen={openHouse}
+> 156 |             addHouseLabel={t('addHouse')}
+      |                            ^
+  157 |             placementHint={t('placementHint')}
+  158 |             cancelPlacementLabel={t('cancelPlacement')}
+  159 |             openLabel={t('openHouse')} {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `map.addHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `map.placementHint` in messages for locale `lv`.
+    at MapSearch (components\map\MapSearch.tsx:157:28)
+  155 |             onHouseOpen={openHouse}
+  156 |             addHouseLabel={t('addHouse')}
+> 157 |             placementHint={t('placementHint')}
+      |                            ^
+  158 |             cancelPlacementLabel={t('cancelPlacement')}
+  159 |             openLabel={t('openHouse')}
+  160 |             apartmentsLabel={t('apartments')} {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `map.placementHint` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `map.cancelPlacement` in messages for locale `lv`.
+    at MapSearch (components\map\MapSearch.tsx:158:35)
+  156 |             addHouseLabel={t('addHouse')}
+  157 |             placementHint={t('placementHint')}
+> 158 |             cancelPlacementLabel={t('cancelPlacement')}
+      |                                   ^
+  159 |             openLabel={t('openHouse')}
+  160 |             apartmentsLabel={t('apartments')}
+  161 |           /> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `map.cancelPlacement` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `map.addHouse` in messages for locale `lv`.
+    at MapSearch (components\map\MapSearch.tsx:200:14)
+  198 |           >
+  199 |             <span className="text-lg leading-none">+</span>
+> 200 |             {t('addHouse')}
+      |              ^
+  201 |           </button>
+  202 |
+  203 |           <div className="map-search-list"> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `map.addHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+ GET /lv 200 in 3.6s (next.js: 48ms, proxy.ts: 19ms, generate-params: 5ms, application-code: 3.6s)
+Error: MISSING_MESSAGE: Could not resolve `createHouse` in messages for locale `lv`.
+    at CreateHouseModal (components\map\CreateHouseModal.tsx:48:28)
+  46 |
+  47 | export function CreateHouseModal({ isOpen, onClose, pin, onCreated }: CreateHouseModalProp...
+> 48 |   const t = useTranslations('createHouse')
+     |                            ^
+  49 |   const tCommon = useTranslations('common')
+  50 |
+  51 |   const [form, setForm] = useState<FormState>(EMPTY_FORM) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `createHouse` in messages for locale `lv`.'
+}
+✓ Compiled in 38ms
+ GET /api/houses 500 in 7.7s (next.js: 596ms, proxy.ts: 5ms, application-code: 7.1s)
+ GET /lv 200 in 214ms (next.js: 57ms, proxy.ts: 22ms, generate-params: 5ms, application-code: 136ms)
+ GET /lv 200 in 225ms (next.js: 10ms, proxy.ts: 5ms, generate-params: 22µs, application-code: 210ms)
+ GET /lv 200 in 186ms (next.js: 26ms, proxy.ts: 12ms, generate-params: 77µs, application-code: 148ms)
+ GET /lv 200 in 185ms (next.js: 54ms, proxy.ts: 12ms, generate-params: 28µs, application-code: 119ms)
+ GET /lv 200 in 185ms (next.js: 77ms, proxy.ts: 12ms, generate-params: 20µs, application-code: 96ms)
+ GET /lv 200 in 184ms (next.js: 95ms, proxy.ts: 13ms, generate-params: 18µs, application-code: 75ms)
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Compiled in 82ms
+ GET /lv 200 in 150ms (next.js: 9ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 138ms)
+ GET /api/houses 500 in 7.1s (next.js: 47ms, proxy.ts: 4ms, application-code: 7.1s)
+✓ Compiled in 66ms
+ GET /lv 200 in 207ms (next.js: 62ms, proxy.ts: 31ms, generate-params: 5ms, application-code: 114ms)
+ GET /lv 200 in 225ms (next.js: 14ms, proxy.ts: 6ms, generate-params: 25µs, application-code: 205ms)
+ GET /lv 200 in 186ms (next.js: 41ms, proxy.ts: 10ms, generate-params: 20µs, application-code: 135ms)
+ GET /lv 200 in 185ms (next.js: 57ms, proxy.ts: 12ms, generate-params: 21µs, application-code: 117ms)
+ GET /lv 200 in 184ms (next.js: 75ms, proxy.ts: 13ms, generate-params: 18µs, application-code: 97ms)
+ GET /lv 200 in 183ms (next.js: 90ms, proxy.ts: 14ms, generate-params: 22µs, application-code: 79ms)
+ GET /lv 200 in 194ms (next.js: 103ms, proxy.ts: 6ms, generate-params: 19µs, application-code: 85ms)
+ GET /lv 200 in 211ms (next.js: 8ms, proxy.ts: 3ms, generate-params: 19µs, application-code: 200ms)
+ GET /lv 200 in 190ms (next.js: 30ms, proxy.ts: 8ms, generate-params: 20µs, application-code: 152ms)
+ GET /lv 200 in 205ms (next.js: 85ms, proxy.ts: 9ms, generate-params: 19µs, application-code: 111ms)
+ GET /lv 200 in 209ms (next.js: 48ms, proxy.ts: 8ms, generate-params: 20µs, application-code: 153ms)
+ GET /lv 200 in 208ms (next.js: 67ms, proxy.ts: 9ms, generate-params: 21µs, application-code: 132ms)
+ GET /lv 200 in 207ms (next.js: 125ms, proxy.ts: 5ms, generate-params: 5ms, application-code: 77ms)
+ GET /lv 200 in 198ms (next.js: 6ms, proxy.ts: 3ms, generate-params: 20µs, application-code: 189ms)
+ GET /lv 200 in 180ms (next.js: 31ms, proxy.ts: 4ms, generate-params: 24µs, application-code: 145ms)
+ GET /lv 200 in 198ms (next.js: 43ms, proxy.ts: 10ms, generate-params: 20µs, application-code: 145ms)
+ GET /lv 200 in 198ms (next.js: 61ms, proxy.ts: 10ms, generate-params: 19µs, application-code: 127ms)
+ GET /lv 200 in 201ms (next.js: 81ms, proxy.ts: 10ms, generate-params: 19µs, application-code: 110ms)
+ GET /lv 200 in 203ms (next.js: 113ms, proxy.ts: 4ms, generate-params: 24µs, application-code: 87ms)
+ GET /lv 200 in 215ms (next.js: 9ms, proxy.ts: 3ms, generate-params: 19µs, application-code: 203ms)
+ GET /lv 200 in 193ms (next.js: 32ms, proxy.ts: 5ms, generate-params: 18µs, application-code: 156ms)
+ GET /lv 200 in 195ms (next.js: 42ms, proxy.ts: 12ms, generate-params: 18µs, application-code: 141ms)
+ GET /lv 200 in 194ms (next.js: 61ms, proxy.ts: 12ms, generate-params: 21µs, application-code: 121ms)
+ GET /lv 200 in 217ms (next.js: 80ms, proxy.ts: 9ms, generate-params: 20µs, application-code: 129ms)
+ GET /lv 200 in 221ms (next.js: 122ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 96ms)
+ GET /lv 200 in 210ms (next.js: 18ms, proxy.ts: 3ms, generate-params: 20µs, application-code: 190ms)
+ GET /lv 200 in 210ms (next.js: 61ms, proxy.ts: 8ms, generate-params: 25µs, application-code: 140ms)
+ GET /lv 200 in 199ms (next.js: 54ms, proxy.ts: 9ms, generate-params: 23µs, application-code: 136ms)
+ GET /lv 200 in 198ms (next.js: 70ms, proxy.ts: 9ms, generate-params: 18µs, application-code: 118ms)
+ GET /lv 200 in 192ms (next.js: 89ms, proxy.ts: 7ms, generate-params: 21µs, application-code: 96ms)
+ GET /lv 200 in 187ms (next.js: 105ms, proxy.ts: 5ms, generate-params: 21µs, application-code: 77ms)
+ GET /lv 200 in 136ms (next.js: 7ms, proxy.ts: 3ms, generate-params: 20µs, application-code: 126ms)
+ GET /lv 200 in 130ms (next.js: 20ms, proxy.ts: 25ms, generate-params: 20µs, application-code: 85ms)
+ GET /lv 200 in 104ms (next.js: 34ms, proxy.ts: 4ms, generate-params: 19µs, application-code: 66ms)
+ GET /lv 200 in 104ms (next.js: 50ms, proxy.ts: 6ms, generate-params: 23µs, application-code: 48ms)
+✓ Compiled in 213ms
+ GET /lv 200 in 439ms (next.js: 179ms, proxy.ts: 27ms, generate-params: 5ms, application-code: 233ms)
+ GET /lv 200 in 205ms (next.js: 156ms, proxy.ts: 5ms, generate-params: 22µs, application-code: 44ms)
+ GET /lv 200 in 350ms (next.js: 123ms, proxy.ts: 20ms, generate-params: 18µs, application-code: 207ms)
+✓ Compiled in 58ms
+ GET /lv 200 in 196ms (next.js: 80ms, proxy.ts: 21ms, generate-params: 5ms, application-code: 95ms)
+ GET /lv 200 in 101ms (next.js: 7ms, proxy.ts: 7ms, generate-params: 18µs, application-code: 87ms)
+ GET /lv 200 in 69ms (next.js: 12ms, proxy.ts: 5ms, generate-params: 20µs, application-code: 52ms)
+ GET /lv 200 in 69ms (next.js: 30ms, proxy.ts: 6ms, generate-params: 24µs, application-code: 32ms)
+ GET /api/houses 500 in 7.1s (next.js: 45ms, proxy.ts: 3ms, application-code: 7.1s)
+ GET /lv 200 in 130ms (next.js: 45ms, proxy.ts: 17ms, generate-params: 5ms, application-code: 69ms)
+ GET /lv 200 in 73ms (next.js: 8ms, proxy.ts: 5ms, generate-params: 26µs, application-code: 61ms)
+ GET /lv 200 in 42ms (next.js: 9ms, proxy.ts: 5ms, generate-params: 21µs, application-code: 28ms)
+ GET /lv 200 in 195ms (next.js: 12ms, proxy.ts: 6ms, generate-params: 5ms, application-code: 177ms)
+ GET /api/houses 500 in 7.1s (next.js: 53ms, proxy.ts: 4ms, application-code: 7.0s)
+ GET /lv/auth/register 200 in 778ms (next.js: 754ms, proxy.ts: 2ms, generate-params: 370ms, application-code: 21ms)
+ GET /lv/auth/register 200 in 71ms (next.js: 8ms, proxy.ts: 2ms, generate-params: 4ms, application-code: 61ms)
+✓ Compiled in 677ms
+ GET /lv/auth/register 200 in 873ms (next.js: 439ms, proxy.ts: 4ms, generate-params: 5ms, application-code: 429ms)
+Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components\auth\AuthShell.tsx:27:10)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.tagline` in messages for locale `lv`.'
+}
+ GET /lv/auth/register 200 in 309ms (next.js: 247ms, proxy.ts: 11ms, generate-params: 18µs, application-code: 51ms)
+ GET /lv/auth/register 200 in 430ms (next.js: 45ms, proxy.ts: 22ms, generate-params: 29µs, application-code: 363ms)
+ GET /lv/auth/register 200 in 327ms (next.js: 143ms, proxy.ts: 9ms, generate-params: 20µs, application-code: 175ms)
+ GET /lv/auth/register 200 in 325ms (next.js: 163ms, proxy.ts: 9ms, generate-params: 21µs, application-code: 153ms)
+ GET /lv/auth/register 200 in 435ms (next.js: 96ms, proxy.ts: 4ms, generate-params: 30µs, application-code: 334ms)
+Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components\auth\AuthShell.tsx:35:10)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.privacy` in messages for locale `lv`.'
+}
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:27:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:91:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:204:7)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> (components/auth/AuthShell.tsx:27:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:35:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:91:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:204:7)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) (components/auth/AuthShell.tsx:35:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:27:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:91:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:204:7)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> (components/auth/AuthShell.tsx:27:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:35:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:91:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:204:7)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) (components/auth/AuthShell.tsx:35:10)
+✓ Compiled in 98ms
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:107:14)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}>
+> 107 |             {t('toSignIn')}
+      |              ^
+  108 |           </Link>
+  109 |         </button>
+  110 |       } (app/[locale]/auth/register/page.tsx:107:14)
+ GET /lv/auth/register 200 in 280ms (next.js: 48ms, proxy.ts: 20ms, generate-params: 5ms, application-code: 211ms)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:121:10)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  119 |
+  120 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 121 |         {t('emailRegisterTitle')}
+      |          ^
+  122 |       </p>
+  123 |
+  124 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:121:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:129:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  127 |           value={fullName}
+  128 |           onChange={(e) => setFullName(e.target.value)}
+> 129 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  130 |           autoComplete="name"
+  131 |           required
+  132 |         /> (app/[locale]/auth/register/page.tsx:129:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:137:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  135 |           value={apartment}
+  136 |           onChange={(e) => setApartment(e.target.value)}
+> 137 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  138 |           autoComplete="off"
+  139 |         />
+  140 |         <input (app/[locale]/auth/register/page.tsx:137:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:145:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  143 |           value={email}
+  144 |           onChange={(e) => setEmail(e.target.value)}
+> 145 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  146 |           autoComplete="email"
+  147 |           required
+  148 |         /> (app/[locale]/auth/register/page.tsx:145:24)
+ GET /lv/auth/register 200 in 247ms (next.js: 49ms, proxy.ts: 7ms, generate-params: 32µs, application-code: 190ms)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:154:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  152 |           value={password}
+  153 |           onChange={(e) => setPassword(e.target.value)}
+> 154 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  155 |           autoComplete="new-password"
+  156 |           minLength={6}
+  157 |           required (app/[locale]/auth/register/page.tsx:154:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:164:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  162 |           value={password2}
+  163 |           onChange={(e) => setPassword2(e.target.value)}
+> 164 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  165 |           autoComplete="new-password"
+  166 |           minLength={6}
+  167 |           required (app/[locale]/auth/register/page.tsx:164:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:107:14)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}>
+> 107 |             {t('toSignIn')}
+      |              ^
+  108 |           </Link>
+  109 |         </button>
+  110 |       } (app/[locale]/auth/register/page.tsx:107:14)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:121:10)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  119 |
+  120 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 121 |         {t('emailRegisterTitle')}
+      |          ^
+  122 |       </p>
+  123 |
+  124 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:121:10)
+ GET /lv/auth/register 200 in 177ms (next.js: 38ms, proxy.ts: 9ms, generate-params: 44µs, application-code: 130ms)
+ GET /lv/auth/register 200 in 176ms (next.js: 64ms, proxy.ts: 9ms, generate-params: 26µs, application-code: 103ms)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:129:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  127 |           value={fullName}
+  128 |           onChange={(e) => setFullName(e.target.value)}
+> 129 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  130 |           autoComplete="name"
+  131 |           required
+  132 |         /> (app/[locale]/auth/register/page.tsx:129:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:137:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  135 |           value={apartment}
+  136 |           onChange={(e) => setApartment(e.target.value)}
+> 137 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  138 |           autoComplete="off"
+  139 |         />
+  140 |         <input (app/[locale]/auth/register/page.tsx:137:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:145:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  143 |           value={email}
+  144 |           onChange={(e) => setEmail(e.target.value)}
+> 145 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  146 |           autoComplete="email"
+  147 |           required
+  148 |         /> (app/[locale]/auth/register/page.tsx:145:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:154:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  152 |           value={password}
+  153 |           onChange={(e) => setPassword(e.target.value)}
+> 154 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  155 |           autoComplete="new-password"
+  156 |           minLength={6}
+  157 |           required (app/[locale]/auth/register/page.tsx:154:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:164:24)
+    at Set.forEach (<anonymous>)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  162 |           value={password2}
+  163 |           onChange={(e) => setPassword2(e.target.value)}
+> 164 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  165 |           autoComplete="new-password"
+  166 |           minLength={6}
+  167 |           required (app/[locale]/auth/register/page.tsx:164:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+    at Set.forEach (<anonymous>)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+    at Set.forEach (<anonymous>)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+    at Set.forEach (<anonymous>)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+    at Set.forEach (<anonymous>)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:107:14)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}>
+> 107 |             {t('toSignIn')}
+      |              ^
+  108 |           </Link>
+  109 |         </button>
+  110 |       } (app/[locale]/auth/register/page.tsx:107:14)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:121:10)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  119 |
+  120 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 121 |         {t('emailRegisterTitle')}
+      |          ^
+  122 |       </p>
+  123 |
+  124 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:121:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:129:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  127 |           value={fullName}
+  128 |           onChange={(e) => setFullName(e.target.value)}
+> 129 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  130 |           autoComplete="name"
+  131 |           required
+  132 |         /> (app/[locale]/auth/register/page.tsx:129:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:137:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  135 |           value={apartment}
+  136 |           onChange={(e) => setApartment(e.target.value)}
+> 137 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  138 |           autoComplete="off"
+  139 |         />
+  140 |         <input (app/[locale]/auth/register/page.tsx:137:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:145:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  143 |           value={email}
+  144 |           onChange={(e) => setEmail(e.target.value)}
+> 145 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  146 |           autoComplete="email"
+  147 |           required
+  148 |         /> (app/[locale]/auth/register/page.tsx:145:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:154:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  152 |           value={password}
+  153 |           onChange={(e) => setPassword(e.target.value)}
+> 154 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  155 |           autoComplete="new-password"
+  156 |           minLength={6}
+  157 |           required (app/[locale]/auth/register/page.tsx:154:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:164:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  162 |           value={password2}
+  163 |           onChange={(e) => setPassword2(e.target.value)}
+> 164 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  165 |           autoComplete="new-password"
+  166 |           minLength={6}
+  167 |           required (app/[locale]/auth/register/page.tsx:164:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:107:14)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}>
+> 107 |             {t('toSignIn')}
+      |              ^
+  108 |           </Link>
+  109 |         </button>
+  110 |       } (app/[locale]/auth/register/page.tsx:107:14)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:121:10)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  119 |
+  120 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 121 |         {t('emailRegisterTitle')}
+      |          ^
+  122 |       </p>
+  123 |
+  124 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:121:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:129:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  127 |           value={fullName}
+  128 |           onChange={(e) => setFullName(e.target.value)}
+> 129 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  130 |           autoComplete="name"
+  131 |           required
+  132 |         /> (app/[locale]/auth/register/page.tsx:129:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:137:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  135 |           value={apartment}
+  136 |           onChange={(e) => setApartment(e.target.value)}
+> 137 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  138 |           autoComplete="off"
+  139 |         />
+  140 |         <input (app/[locale]/auth/register/page.tsx:137:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:145:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  143 |           value={email}
+  144 |           onChange={(e) => setEmail(e.target.value)}
+> 145 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  146 |           autoComplete="email"
+  147 |           required
+  148 |         /> (app/[locale]/auth/register/page.tsx:145:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:154:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  152 |           value={password}
+  153 |           onChange={(e) => setPassword(e.target.value)}
+> 154 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  155 |           autoComplete="new-password"
+  156 |           minLength={6}
+  157 |           required (app/[locale]/auth/register/page.tsx:154:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:164:24)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  162 |           value={password2}
+  163 |           onChange={(e) => setPassword2(e.target.value)}
+> 164 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  165 |           autoComplete="new-password"
+  166 |           minLength={6}
+  167 |           required (app/[locale]/auth/register/page.tsx:164:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:92:27)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:756:221)
+  101 |
+  102 |   return (
+> 103 |     <AuthShell
+      |     ^
+  104 |       footer={
+  105 |         <button type="button" className="mt-3 text-[12px] font-semibold text-accent">
+  106 |           <Link href={`/${locale}/auth/login?redirect=${encodeURIComponent(redirectPath)}`}> (file://C:/Users/bzvir/Desktop/MajasBalss.lv/.next/dev/static/chunks/_1s6yfqt._.js:109:27)
+✓ Compiled in 163ms
+✓ Compiled in 85ms
+Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:109:12)
+  107 |           className="mt-3 inline-block text-[12px] font-semibold text-accent"
+  108 |         >
+> 109 |           {t('toSignIn')}
+      |            ^
+  110 |         </Link>
+  111 |       }
+  112 |     > {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.toSignIn` in messages for locale `lv`.'
+}
+ GET /lv/auth/register 200 in 356ms (next.js: 54ms, proxy.ts: 23ms, generate-params: 5ms, application-code: 279ms)
+Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:122:10)
+  120 |
+  121 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 122 |         {t('emailRegisterTitle')}
+      |          ^
+  123 |       </p>
+  124 |
+  125 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:130:24)
+  128 |           value={fullName}
+  129 |           onChange={(e) => setFullName(e.target.value)}
+> 130 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  131 |           autoComplete="name"
+  132 |           required
+  133 |         /> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:138:24)
+  136 |           value={apartment}
+  137 |           onChange={(e) => setApartment(e.target.value)}
+> 138 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  139 |           autoComplete="off"
+  140 |         />
+  141 |         <input {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:146:24)
+  144 |           value={email}
+  145 |           onChange={(e) => setEmail(e.target.value)}
+> 146 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  147 |           autoComplete="email"
+  148 |           required
+  149 |         /> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:155:24)
+  153 |           value={password}
+  154 |           onChange={(e) => setPassword(e.target.value)}
+> 155 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  156 |           autoComplete="new-password"
+  157 |           minLength={6}
+  158 |           required {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app\[locale]\auth\register\page.tsx:165:24)
+  163 |           value={password2}
+  164 |           onChange={(e) => setPassword2(e.target.value)}
+> 165 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  166 |           autoComplete="new-password"
+  167 |           minLength={6}
+  168 |           required {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components\auth\AuthShell.tsx:27:10)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.tagline` in messages for locale `lv`.'
+}
+Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components\auth\AuthShell.tsx:35:10)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) {
+  code: 'MISSING_MESSAGE',
+  originalMessage: 'Could not resolve `auth.privacy` in messages for locale `lv`.'
+}
+ GET /lv/auth/register 200 in 234ms (next.js: 94ms, proxy.ts: 102ms, generate-params: 28µs, application-code: 38ms)
+ GET /lv/auth/register 200 in 357ms (next.js: 85ms, proxy.ts: 3ms, generate-params: 19µs, application-code: 269ms)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:109:12)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  107 |           className="mt-3 inline-block text-[12px] font-semibold text-accent"
+  108 |         >
+> 109 |           {t('toSignIn')}
+      |            ^
+  110 |         </Link>
+  111 |       }
+  112 |     > (app/[locale]/auth/register/page.tsx:109:12)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:122:10)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  120 |
+  121 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 122 |         {t('emailRegisterTitle')}
+      |          ^
+  123 |       </p>
+  124 |
+  125 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:122:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:130:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  128 |           value={fullName}
+  129 |           onChange={(e) => setFullName(e.target.value)}
+> 130 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  131 |           autoComplete="name"
+  132 |           required
+  133 |         /> (app/[locale]/auth/register/page.tsx:130:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:138:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  136 |           value={apartment}
+  137 |           onChange={(e) => setApartment(e.target.value)}
+> 138 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  139 |           autoComplete="off"
+  140 |         />
+  141 |         <input (app/[locale]/auth/register/page.tsx:138:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:146:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  144 |           value={email}
+  145 |           onChange={(e) => setEmail(e.target.value)}
+> 146 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  147 |           autoComplete="email"
+  148 |           required
+  149 |         /> (app/[locale]/auth/register/page.tsx:146:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:155:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  153 |           value={password}
+  154 |           onChange={(e) => setPassword(e.target.value)}
+> 155 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  156 |           autoComplete="new-password"
+  157 |           minLength={6}
+  158 |           required (app/[locale]/auth/register/page.tsx:155:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:165:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  163 |           value={password2}
+  164 |           onChange={(e) => setPassword2(e.target.value)}
+> 165 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  166 |           autoComplete="new-password"
+  167 |           minLength={6}
+  168 |           required (app/[locale]/auth/register/page.tsx:165:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.toSignIn` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:109:12)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  107 |           className="mt-3 inline-block text-[12px] font-semibold text-accent"
+  108 |         >
+> 109 |           {t('toSignIn')}
+      |            ^
+  110 |         </Link>
+  111 |       }
+  112 |     > (app/[locale]/auth/register/page.tsx:109:12)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailRegisterTitle` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:122:10)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  120 |
+  121 |       <p className="mb-2.5 text-left text-[12.5px] font-semibold text-ink">
+> 122 |         {t('emailRegisterTitle')}
+      |          ^
+  123 |       </p>
+  124 |
+  125 |       <form onSubmit={handleRegister} className="w-full space-y-2.5 text-left"> (app/[locale]/auth/register/page.tsx:122:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.fullNamePlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:130:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  128 |           value={fullName}
+  129 |           onChange={(e) => setFullName(e.target.value)}
+> 130 |           placeholder={t('fullNamePlaceholder')}
+      |                        ^
+  131 |           autoComplete="name"
+  132 |           required
+  133 |         /> (app/[locale]/auth/register/page.tsx:130:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.apartmentPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:138:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  136 |           value={apartment}
+  137 |           onChange={(e) => setApartment(e.target.value)}
+> 138 |           placeholder={t('apartmentPlaceholder')}
+      |                        ^
+  139 |           autoComplete="off"
+  140 |         />
+  141 |         <input (app/[locale]/auth/register/page.tsx:138:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.emailPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:146:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  144 |           value={email}
+  145 |           onChange={(e) => setEmail(e.target.value)}
+> 146 |           placeholder={t('emailPlaceholder')}
+      |                        ^
+  147 |           autoComplete="email"
+  148 |           required
+  149 |         /> (app/[locale]/auth/register/page.tsx:146:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:155:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  153 |           value={password}
+  154 |           onChange={(e) => setPassword(e.target.value)}
+> 155 |           placeholder={t('passwordPlaceholder')}
+      |                        ^
+  156 |           autoComplete="new-password"
+  157 |           minLength={6}
+  158 |           required (app/[locale]/auth/register/page.tsx:155:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.passwordAgainPlaceholder` in messages for locale `lv`.
+    at RegisterForm (app/[locale]/auth/register/page.tsx:165:24)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  163 |           value={password2}
+  164 |           onChange={(e) => setPassword2(e.target.value)}
+> 165 |           placeholder={t('passwordAgainPlaceholder')}
+      |                        ^
+  166 |           autoComplete="new-password"
+  167 |           minLength={6}
+  168 |           required (app/[locale]/auth/register/page.tsx:165:24)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:27:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> (components/auth/AuthShell.tsx:27:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:35:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) (components/auth/AuthShell.tsx:35:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.tagline` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:27:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  25 |
+  26 |       <p className="mt-3 max-w-[280px] text-sm leading-relaxed text-muted">
+> 27 |         {t('tagline')}
+     |          ^
+  28 |       </p>
+  29 |
+  30 |       <div className="mt-8 w-full">{children}</div> (components/auth/AuthShell.tsx:27:10)
+[browser] Error: MISSING_MESSAGE: Could not resolve `auth.privacy` in messages for locale `lv`.
+    at AuthShell (components/auth/AuthShell.tsx:35:10)
+    at RegisterForm (app/[locale]/auth/register/page.tsx:103:5)
+    at RegisterPage (app/[locale]/auth/register/page.tsx:200:7)
+  33 |
+  34 |       <p className="mt-8 max-w-[300px] text-[11px] leading-relaxed text-muted">
+> 35 |         {t('privacy')}
+     |          ^
+  36 |       </p>
+  37 |     </div>
+  38 |   ) (components/auth/AuthShell.tsx:35:10)
+✓ Compiled in 93ms
+ GET /lv/auth/register 200 in 260ms (next.js: 46ms, proxy.ts: 17ms, generate-params: 4ms, application-code: 197ms)
+ GET /lv/auth/register 200 in 218ms (next.js: 8ms, proxy.ts: 5ms, generate-params: 20µs, application-code: 205ms)
+ GET /lv/auth/register 200 in 237ms (next.js: 61ms, proxy.ts: 10ms, generate-params: 20µs, application-code: 166ms)
+ GET /lv/auth/register 200 in 242ms (next.js: 17ms, proxy.ts: 10ms, generate-params: 19µs, application-code: 214ms)
+ GET /lv/auth/register 200 in 240ms (next.js: 39ms, proxy.ts: 10ms, generate-params: 18µs, application-code: 191ms)
+ GET /lv/auth/register 200 in 238ms (next.js: 89ms, proxy.ts: 10ms, generate-params: 18µs, application-code: 139ms)
+ GET /lv/auth/register 200 in 99ms (next.js: 26ms, proxy.ts: 11ms, generate-params: 27µs, application-code: 62ms)
+✓ Compiled in 77ms
+✓ Compiled in 55ms
+ GET /lv/auth/register 200 in 126ms (next.js: 51ms, proxy.ts: 20ms, generate-params: 5ms, application-code: 55ms)
+ GET /lv/auth/register 200 in 63ms (next.js: 15ms, proxy.ts: 6ms, generate-params: 26µs, application-code: 43ms)
+✓ Compiled in 48ms
+✓ Compiled in 105ms
+ GET /lv/auth/register 200 in 101ms (next.js: 46ms, proxy.ts: 18ms, generate-params: 5ms, application-code: 38ms)
+✓ Compiled in 127ms
+ GET /lv/auth/register 200 in 171ms (next.js: 13ms, proxy.ts: 4ms, generate-params: 6ms, application-code: 155ms)
+ GET /lv/auth/register 200 in 73ms (next.js: 12ms, proxy.ts: 5ms, generate-params: 6ms, application-code: 56ms)
+ GET /lv/auth/register 200 in 76ms (next.js: 10ms, proxy.ts: 4ms, generate-params: 5ms, application-code: 62ms)
+  Reload env: .env.local
+✓ Compiled in 37ms
+  Reload env: .env.local
+  Reload env: .env.local
+  Reload env: .env.local
+  Reload env: .env.local
+ GET /lv 200 in 377ms (next.js: 93ms, proxy.ts: 7ms, generate-params: 8ms, application-code: 277ms)
+ GET /api/houses 200 in 271ms (next.js: 101ms, proxy.ts: 5ms, application-code: 164ms)
+✓ Compiled in 68ms
+ GET /lv 200 in 207ms (next.js: 75ms, proxy.ts: 31ms, generate-params: 7ms, application-code: 101ms)
+ GET /lv 200 in 61ms (next.js: 18ms, proxy.ts: 7ms, generate-params: 29µs, application-code: 36ms)
+✓ Compiled in 157ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /api/houses 200 in 383ms (next.js: 310ms, proxy.ts: 6ms, application-code: 68ms)
+ GET /lv 200 in 417ms (next.js: 99ms, proxy.ts: 30ms, generate-params: 7ms, application-code: 288ms)
+ GET /api/houses 200 in 90ms (next.js: 3ms, proxy.ts: 4ms, application-code: 83ms)
+✓ Compiled in 37ms
+ GET /lv 200 in 122ms (next.js: 58ms, proxy.ts: 20ms, generate-params: 6ms, application-code: 43ms)
+[browser] Uncaught TypeError: Cannot read properties of undefined (reading 'bottomright')
+    at HouseMap (components/map/HouseMap.tsx:225:9)
+    at MapSearch (components/map/MapSearch.tsx:145:18)
+    at HomePage (app\[locale]\page.tsx:6:7)
+  223 |         scrollWheelZoom
+  224 |       >
+> 225 |         <ZoomControl position="bottomright" />
+      |         ^
+  226 |         <TileLayer
+  227 |           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree...
+  228 |           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+[browser] Uncaught Error: Map container is being reused by another instance
+    at MapContainerComponent (<anonymous>)
+ GET /lv 200 in 160ms (next.js: 10ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 147ms)
+ GET /api/houses 200 in 299ms (next.js: 93ms, proxy.ts: 3ms, application-code: 203ms)
+✓ Compiled in 59ms
+ GET /lv/auth/register 200 in 100ms (next.js: 65ms, proxy.ts: 7ms, generate-params: 5ms, application-code: 27ms)
+ GET /lv 200 in 77ms (next.js: 10ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 65ms)
+ GET /api/houses 200 in 308ms (next.js: 5ms, proxy.ts: 3ms, application-code: 300ms)
+ GET /lv/auth/register 200 in 36ms (next.js: 11ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 22ms)
+ GET /auth/callback?code=91d14cab-5cab-4412-a280-5b30d8f7844a&next=%2Flv 307 in 531ms (next.js: 169ms, proxy.ts: 4ms, application-code: 358ms)
+ GET /lv 200 in 156ms (next.js: 9ms, proxy.ts: 77ms, generate-params: 5ms, application-code: 69ms)
+ GET /api/houses 200 in 147ms (next.js: 2ms, proxy.ts: 70ms, application-code: 75ms)
+✓ Compiled in 56ms
+ GET /lv 200 in 480ms (next.js: 75ms, proxy.ts: 340ms, generate-params: 6ms, application-code: 65ms)
+ GET /lv 200 in 121ms (next.js: 5ms, proxy.ts: 88ms, generate-params: 34µs, application-code: 28ms)
+✓ Compiled in 62ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /api/houses 200 in 543ms (next.js: 145ms, proxy.ts: 388ms, application-code: 10ms)
+ GET /lv 200 in 621ms (next.js: 133ms, proxy.ts: 123ms, generate-params: 7ms, application-code: 365ms)
+ GET /api/houses 200 in 149ms (next.js: 2ms, proxy.ts: 73ms, application-code: 74ms)
+✓ Compiled in 40ms
+ GET /lv 200 in 188ms (next.js: 50ms, proxy.ts: 92ms, generate-params: 5ms, application-code: 46ms)
+ GET /lv 200 in 111ms (next.js: 5ms, proxy.ts: 70ms, generate-params: 27µs, application-code: 37ms)
+ GET /lv 200 in 129ms (next.js: 5ms, proxy.ts: 75ms, generate-params: 21µs, application-code: 49ms)
+ GET /lv 200 in 106ms (next.js: 5ms, proxy.ts: 69ms, generate-params: 22µs, application-code: 33ms)
+ GET /lv 200 in 106ms (next.js: 10ms, proxy.ts: 70ms, generate-params: 5ms, application-code: 27ms)
+✓ Compiled in 46ms
+ GET /lv 200 in 210ms (next.js: 58ms, proxy.ts: 108ms, generate-params: 5ms, application-code: 44ms)
+ GET /lv 200 in 114ms (next.js: 5ms, proxy.ts: 71ms, generate-params: 27µs, application-code: 38ms)
+ GET /lv 200 in 147ms (next.js: 6ms, proxy.ts: 70ms, generate-params: 25µs, application-code: 70ms)
+ GET /lv 200 in 216ms (next.js: 90ms, proxy.ts: 78ms, generate-params: 22µs, application-code: 47ms)
+ GET /lv 200 in 118ms (next.js: 11ms, proxy.ts: 75ms, generate-params: 6ms, application-code: 32ms)
+[browser] Uncaught TypeError: Cannot read properties of undefined (reading 'bottomright')
+    at HouseMap (components/map/HouseMap.tsx:234:9)
+    at MapSearch (components/map/MapSearch.tsx:149:11)
+    at HomePage (app\[locale]\page.tsx:6:7)
+  232 |         scrollWheelZoom
+  233 |       >
+> 234 |         <ZoomControl position="bottomright" />
+      |         ^
+  235 |         <TileLayer
+  236 |           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree...
+  237 |           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+[browser] Uncaught Error: Map container is being reused by another instance
+    at MapContainerComponent (<anonymous>)
+ GET /lv 200 in 452ms (next.js: 12ms, proxy.ts: 272ms, generate-params: 6ms, application-code: 168ms)
+ GET /api/houses 200 in 430ms (next.js: 87ms, proxy.ts: 76ms, application-code: 268ms)
+ GET /manifest.json 404 in 85ms (next.js: 17ms, proxy.ts: 6ms, generate-params: 7ms, application-code: 62ms)
+ GET /manifest.json 404 in 71ms (next.js: 9ms, proxy.ts: 3ms, generate-params: 24µs, application-code: 59ms)
+ GET /en/chats 404 in 390ms (next.js: 353ms, proxy.ts: 3ms, application-code: 34ms)
+ GET /sw.js 404 in 71ms (next.js: 10ms, proxy.ts: 4ms, generate-params: 5ms, application-code: 57ms)
+ GET /sw.js 404 in 65ms (next.js: 10ms, proxy.ts: 3ms, generate-params: 5ms, application-code: 53ms)
+ GET /lv 200 in 197ms (next.js: 12ms, proxy.ts: 107ms, generate-params: 6ms, application-code: 78ms)
+ GET /api/houses 200 in 463ms (next.js: 4ms, proxy.ts: 68ms, application-code: 391ms)
+ GET /lv/profile 200 in 1063ms (next.js: 862ms, proxy.ts: 180ms, generate-params: 387ms, application-code: 22ms)
+ GET /api/houses 200 in 269ms (next.js: 2ms, proxy.ts: 83ms, application-code: 184ms)
+ GET /api/houses 200 in 159ms (next.js: 4ms, proxy.ts: 73ms, application-code: 82ms)
+ GET /lv/house/zemes-iela-3 200 in 984ms (next.js: 729ms, proxy.ts: 228ms, application-code: 26ms)
+ GET /api/houses 200 in 362ms (next.js: 3ms, proxy.ts: 83ms, application-code: 277ms)
+ GET /api/houses 200 in 172ms (next.js: 3ms, proxy.ts: 87ms, application-code: 82ms)
